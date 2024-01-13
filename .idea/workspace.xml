@@ -2,30 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cab93d62-985a-4ee2-902e-58dda6afdb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alpha_DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/binarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/linearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/maxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/maxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/minElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/reverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/subArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/sumOfElementInSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/loop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/loop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/largestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/letterUpperCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/shortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/loop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatype/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +42,17 @@
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.countVowel">
-    <configuration name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.StringCompression" />
+  <component name="RunManager" selected="Application.CountingSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
       <module name="alpha_DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.countVowel" />
+    <configuration name="CountingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.CountingSort" />
       <module name="alpha_DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="largestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.largestString" />
+    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype.First" />
       <module name="alpha_DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="datatype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="letterUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.letterUpperCase" />
+    <configuration name="InsertionCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.InsertionCode" />
       <module name="alpha_DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.palindrome" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort" />
       <module name="alpha_DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.countVowel" />
-        <item itemvalue="Application.StringCompression" />
-        <item itemvalue="Application.letterUpperCase" />
-        <item itemvalue="Application.palindrome" />
-        <item itemvalue="Application.largestString" />
+        <item itemvalue="Application.CountingSort" />
+        <item itemvalue="Application.InsertionCode" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.First" />
       </list>
     </recent_temporary>
   </component>
