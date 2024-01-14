@@ -21,7 +21,7 @@ public class CountingSort {
         }
     }
     public static void main(String[] args) {
-        int arr []={5,4,1,2,3,1,7};
+        int arr []={5,4,1,2,3,1,7,9};
         sort4(arr);
 
         for(int p : arr){
