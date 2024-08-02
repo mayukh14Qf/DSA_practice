@@ -43,7 +43,7 @@ public class PracticeSorting {
         for (int i=0;i<arr.length;i++){
             max=Math.max(arr[i],max);
         }
-        int count []= new int[max+1];
+        int [] count= new int[max+1];
         for (int i=0;i<arr.length;i++){
             count[arr[i]]++;
         }
@@ -58,7 +58,7 @@ public class PracticeSorting {
     }
 
     public static void main(String[] args) {
-        int numbers []={4,7,1,8,3,6,4,1,9};
+        int [] numbers={4,7,1,8,3,6,4,1,9};
         countingSort(numbers);
         for ( int s : numbers){
             System.out.print(s+" ");
